@@ -1,0 +1,29 @@
+h1{
+	margin-left : 20px;
+	display :flex;
+	justify-content : center;
+	border-bottom : 2px solid black;
+	border-right : 2px solid black;
+	box-shadow : 5px 5px 5px #b3b3b3;
+	width : 350px;
+}
+body{
+	background : linear-gradient(rgba(117, 163, 163, 0.5), rgba(117, 163, 163, 0.5)), url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&w=1000&q=80');
+	background-size : cover;
+}
+
+img{
+	width : 300px;
+	height : 400px;
+	margin : 10px;
+}
+
+img:hover{
+	transition : all 1s;
+	transform : scale(1.1);
+}
+div{
+	display : flex;
+	justify-content: center;
+	flex-wrap : wrap;
+}
