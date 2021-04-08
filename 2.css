@@ -45,10 +45,12 @@ div + p{
     margin-top: 120px;
 }
 button{
-    margin : 0% 33% 0% 46%;
-    font-size : 20px;
-    font-family : cursive;
-    background-color : #c2c2a3;
+    margin: 0% 33% 0% 38%;
+    font-size: 23px;
+    font-family: cursive;
+    background-color: #ffd8d8;
+    border-radius: 20px;
+    padding: 16px 35px;
 
 }
 #me{
